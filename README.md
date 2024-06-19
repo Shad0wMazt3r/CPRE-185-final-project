@@ -1,4 +1,4 @@
- Cipher Solver
+# Cipher Solver
 
  The Cipher Solver is a C program designed to help users explore
  various encryption and encoding techniques. The program provides a
